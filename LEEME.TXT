@@ -1,0 +1,4 @@
+Listo Cache 
+Guardar Variables De $ 
+Crear Vistas y crud de Cristales semejante a Productos
+Agregar Cristales a la venta¡
